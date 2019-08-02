@@ -4,7 +4,6 @@ Fall 2017 Networking Course
 ## Team Members
 - Eugene Turgil
 - Robert Smith
-- Weng Li
 - Meghna Agnish
 
 ## Installation Instructions
@@ -19,8 +18,23 @@ Fall 2017 Networking Course
 
 ## Roles & Responsibilities
 
-To be defined...
+* Meghna - Quality Assurance
+* Robert - UI
+* Eugene - Backend Development
 
 ## GIT Repository Rules
 
-If you are creating a feature, fork off a development branch. Do all work there, once it is unit tested/accepted we can merge it into development branch.
+If you are creating a feature, branch off a development branch. Do all work there, once it is unit tested/accepted we can merge it into development branch.
+
+## Credential Implementation 
+
+I would use a temporary password via google password generator. 
+
+## References
+
+### SMTP
+
+ - https://www.ietf.org/rfc/rfc2821.txt
+
+### IMAP 
+ - https://tools.ietf.org/html/rfc3501

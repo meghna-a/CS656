@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="edu.njit.cs656.fall.njitmobilemailer.ScrollingActivity">
+    <item android:title="Settings" />
+    <item android:title="Help" />
+</menu>
